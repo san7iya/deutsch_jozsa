@@ -43,13 +43,9 @@ jupyter lab
 ## Notes
 
 - The notebooks are educational and meant for interactive exploration. They include comments and descriptive markdown cells to guide the reader.
-- If you want me to add a `requirements.txt`, example scripts, or convert notebooks to polished HTML slides, tell me which option you'd like.
 
 ## Author
 
 - Created for a personal demonstration of the Deutsch–Jozsa algorithm.
 
-## License
-
-- Specify a license if you plan to share the repository publicly (MIT is a common default).
 
