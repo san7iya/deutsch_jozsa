@@ -1,0 +1,10 @@
+# Requirements for running the Deutsch–Jozsa notebooks
+jupyterlab
+numpy
+matplotlib
+qiskit
+qiskit-ibm-provider
+
+# Optional: pin versions if needed, e.g.:
+# qiskit==0.41.0
+# qiskit-ibm-provider==0.3.0
